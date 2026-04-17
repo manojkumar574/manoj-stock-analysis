@@ -1,0 +1,3 @@
+Simple strategy:
+- Buy when price breaks resistance
+- Sell at small profit (intraday)
